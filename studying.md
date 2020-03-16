@@ -2,51 +2,74 @@
 # 機械学習
 ## 1.一般化線形モデルと一般化加法モデル
 https://www.slideshare.net/DeepLearningLab/glm-gam
+
 ## 2.AI・機械学習の各分野の最高性能手法・論文をコード付きでまとめその他の高スコア手法も確認できるサイトBrowse State-of-the-Art
 https://paperswithcode.com/sota
+
 ## 3.マイクロソフトリサーチ出展の教科書的資料
 https://www.cs.cornell.edu/jeh/book.pdf
+
 ## 4.グラフィカルラッソ
 http://latent-dynamics.net/01/2010_LD_Ide.pdf
-## 4.機械学習モデルの判断根拠の説明
+
+## 5.機械学習モデルの判断根拠の説明
 https://www.slideshare.net/SatoshiHara3/ver2-225753735
-## 5.ディープラーニング * ガウス過程
+
+## 6.ディープラーニング * ガウス過程
 https://qiita.com/shinmura0/items/3d2e54604181fad6ebf0
-## 6.双曲空間を用いた機械学習トレンド2019
+
+## 7.双曲空間を用いた機械学習トレンド2019
 https://tech-blog.abeja.asia/entry/hyperbolic_ml_2019
-## 7.カーネル法
+
+## 8.カーネル法
 https://www.ism.ac.jp/~fukumizu/ISM_lecture_2004/Lecture2004_kernel_method.pdf 
-## 8.3次元の回転をクラスタリングする
+
+## 9.3次元の回転をクラスタリングする
 https://qiita.com/yu4u/items/319c40bc6b79023ab98f
-## 9.半教師あり学習
+
+## 10.半教師あり学習
 https://hotcocoastudy.hatenablog.jp/entry/2020/01/23/210357
-## 10.Convolutional Conditional Neural Processes
+
+## 11.Convolutional Conditional Neural Processes
 https://www.slideshare.net/slideshow/embed_code/key/5rhjnra97JfXip
-## 11.Neural Process
+
+## 12.Neural Process
 https://www.slideshare.net/DeepLearningJP2016/dlthe-neural-process-familyneural-processes
-## 12.Stratification Learning
+
+## 13.Stratification Learning
 https://www.fujitsu.com/jp/group/labs/about/resources/article/202002-aaai-20.html
-## 13.特徴量エンジニアリング
+
+## 14.特徴量エンジニアリング
 https://speakerdeck.com/s_uryu/feature-engineering-recipes
-## 14.Feature Engineeringのリンク集
+
+## 15.Feature Engineeringのリンク集
 https://qiita.com/squash/items/667f8cda16c76448b0f4
-## 15.Semi supervised, weakly-supervised, unsupervised, and active learning
+
+## 16.Semi supervised, weakly-supervised, unsupervised, and active learning
 https://www.slideshare.net/ren4yu/semi-supervised-weaklysupervised-unsupervised-and-active-learning
-## 16.Gaussian Process Time-Series Models
+
+## 17.Gaussian Process Time-Series Models
 https://www.frontiersin.org/articles/10.3389/fbuil.2017.00069/full
-## 17.異常検知
+
+## 18.異常検知
 https://www.slideshare.net/KosukeNakago/dllab-20180214-88470902
-## 18.TGAN is a tabular data synthesizer.
+
+## 19.TGAN is a tabular data synthesizer.
 https://github.com/sdv-dev/TGAN
-## 19.Weekly Machine Learning
+
+## 20.Weekly Machine Learning
 https://www.getrevue.co/profile/icoxfog417
-## 20.時系列特徴Shapelets
+
+## 21.時系列特徴Shapelets
 https://ai-scholar.tech/treatise/shapelets-ai-352/
-## 21.KShape
+
+## 22.KShape
 https://blog.tsurubee.tech/entry/2019/02/06/223555
-## 22.The Gaussian Process Autoregressive Regression Model
+
+## 23.The Gaussian Process Autoregressive Regression Model
 https://github.com/wesselb/gpar
-## 23.深層t過程回帰モデル
+
+## 24.深層t過程回帰モデル
 https://sigfin.org/?plugin=attach&refer=021-18&openfile=SIG-FIN-021-18.pdf
 
 
@@ -54,26 +77,37 @@ https://sigfin.org/?plugin=attach&refer=021-18&openfile=SIG-FIN-021-18.pdf
 # 深層学習
 ## 1.Distributionally Robust Neural Networks
 https://openreview.net/forum?id=ryxGuJrFvS
+
 ## 2.Image Classification Leaderboards
 https://paperswithcode.com/task/image-classification
+
 ## 3.Pytorch Metrics Learning
 https://github.com/KevinMusgrave/pytorch-metric-learning/blob/master/README.md
+
 ## 4.qkeras
 https://github.com/google/qkeras/blob/master/README.md
+
 ## 5.Survey on deep learning with class imbalance
 https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-019-0192-5
+
 ## 6.SGD Momentumの気持ちを理解する
 https://speakerdeck.com/nyk510/sgd-momentum-falseqi-chi-tiwoli-jie-suru
+
 ## 7.アルゴリズム　サーベイ
 https://github.com/rguo12/awesome-causality-algorithms/blob/master/README.md
+
 ## 8.Label Smoothing
 https://medium.com/@lessw/label-smoothing-deep-learning-google-brain-explains-why-it-works-and-when-to-use-sota-tips-977733ef020
+
 ## 9.Deep Metric Learning
 https://qiita.com/gesogeso/items/547079f967d9bbf9aca8#56-deep-metric-learning-beyond-binary-supervision
+
 ## 10.ニューラルネットワークの普遍性定理
 https://qiita.com/mochimochidog/items/ca04bf3df7071041561a
+
 ## 11.GNN Libraly
 https://www.stellargraph.io/
+
 ## 12.深層学習の数理
 https://www.slideshare.net/trinmu/ss-161240890
 
@@ -82,12 +116,16 @@ https://www.slideshare.net/trinmu/ss-161240890
 # 強化学習
 ## 1.強化学習の資料
 https://pira-nino.hatenablog.com/entry/reinforcement_learning_docs
+
 ## 2.強化学習の実適用に向けた課題と工夫
 https://www.slideshare.net/MasahiroYasumoto/ss-226878641?from_m_app=ios
+
 ## 3.ゼロからDeepまで学ぶ強化学習
 https://qiita.com/icoxfog417/items/242439ecd1a477ece312#%E5%BC%B7%E5%8C%96%E5%AD%A6%E7%BF%92%E3%81%AE%E7%89%B9%E6%80%A7
+
 ## 4.逆強化学習を理解する
 https://qiita.com/neka-nat@github/items/aaab6184aea7d285b103
+
 ## 5.逆強化学習とGANs
 https://www.slideshare.net/JojiToyama/gans-79081984
 
@@ -96,18 +134,25 @@ https://www.slideshare.net/JojiToyama/gans-79081984
 # 情報幾何学
 ## 1.統計多様体の幾何学の新展開
 https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/223220
+
 ## 2.相対エントロピー (Kullback-Leibler divergence) と シャノンの補助定理 
 https://whyitsso.net/math/statistics/relative_entropy.html
+
 ## 3.Chentsovの定理とその周辺(I) 藤原彰夫
 http://www.math.sci.hokudai.ac.jp/~furuhata/workshop/stat/16/Fujiwara160912.pdf
+
 ## 4.情報幾何と機械学習　赤穂昭太郎
 https://www.airc.aist.go.jp/seminar_detail/docs/seminar02-akaho.pdf
+
 ## 5.情報幾何の基礎とEMアルゴリズム
 https://www.slideshare.net/levelfour/em-64165852
+
 ## 6.ゲージ理論とα接続
 http://www.sci.osaka-cu.ac.jp/~ohnita/2006/inf_geom/sos_dan/M_Tanaka.pdf
+
 ## 7.凸関数に基づく情報幾何学 _擬平面性・擬球面性と諸性質との関係_  平岡 和幸 / 田中 勝
 https://github.com/QUANTA-github/information-geometry/blob/master/j-unify.pdf
+
 ## 8.Short Notes on Divergence Measures
 https://danilorezende.com/wp-content/uploads/2018/07/divergences.pdf
 
@@ -116,19 +161,36 @@ https://danilorezende.com/wp-content/uploads/2018/07/divergences.pdf
 # ベイズ統計
 ## 1.ベイズ深層学習(3.3~3.4)
 https://speakerdeck.com/catla/beizushen-ceng-xue-xi-3-dot-3-3-dot-4
+
 ## 2.ベイズ統計学の概論的紹介
 https://www.slideshare.net/naokihayashi714/ss-161469671
+
 ## 3.ベイズ検定
 http://watanabe-www.math.dis.titech.ac.jp/users/fujiwara/doc/fujiwara_ibis2006.ppt.pdf
+
 ## 4.Bayesian Neural Network
 https://www.slideshare.net/masa_s/dl-hacksbayesian-neural-network
+
 ## 5.サンプリング
 https://t.co/MEN5xWG2OK?amp=1
+
 ## 6.論文解説 ベイズ事後分布の近似手法INLA
 https://speakerdeck.com/wasyro/lun-wen-jie-shuo-bayesian-computing-with-inla-a-review
+
 ## 7.W理論こと特異学習理論
 http://chijan.hatenablog.jp/entry/iq1adc2019-singular
 
+## 8.階層ベイズ
+https://www.medi-08-data-06.work/entry/stratified_model2_1901
+
+https://analytics.livesense.co.jp/entry/2018/10/10/100000
+
+http://statmodeling.hatenablog.com/entry/waic-with-hierarchical-models?utm_source=twitterfeed&utm_medium=twitter
+
+## 9.確率分布間の関係を理解する
+https://qiita.com/yutera12/items/10d19959f52de5c98a0a
+
+## 10.
 
 
 # 因果推論
