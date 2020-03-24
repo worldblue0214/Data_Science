@@ -72,6 +72,20 @@ https://github.com/wesselb/gpar
 ## 24.深層t過程回帰モデル
 https://sigfin.org/?plugin=attach&refer=021-18&openfile=SIG-FIN-021-18.pdf
 
+## 25.Topological Data Analysis
+https://qiita.com/gen10nal/items/ad3e44fe8086b3ccdbde
+
+https://qiita.com/snuffkin/items/b032fa5a938e13275177
+
+https://cookie-box.hatenablog.com/entry/2016/11/20/215836
+
+https://qiita.com/cympfh/items/e8c2669c646a73205ea9
+
+https://www.slideshare.net/kato_kohaku/dimensionality-reduction-with-tsne-and-umap-using-r-176806642?from_m_app=ios
+
+## 26.機械学習技術とその数理基盤 (鈴木大慈)
+http://ibis.t.u-tokyo.ac.jp/suzuki/lecture/2018/ML_Gairon/ML_Gairon_02_mod.pdf
+
 
 
 # 深層学習
@@ -110,6 +124,9 @@ https://www.stellargraph.io/
 
 ## 12.深層学習の数理
 https://www.slideshare.net/trinmu/ss-161240890
+
+## 13.GANのなめらかさと安定性
+https://tech.preferred.jp/ja/blog/smoothness-and-stability-in-gans/
 
 
 
@@ -171,6 +188,14 @@ http://watanabe-www.math.dis.titech.ac.jp/users/fujiwara/doc/fujiwara_ibis2006.p
 ## 4.Bayesian Neural Network
 https://www.slideshare.net/masa_s/dl-hacksbayesian-neural-network
 
+https://www.slideshare.net/ssuser8672d7/bayesian-neural-network-survey
+
+https://nykergoto.hatenablog.jp/entry/2017/08/14/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A9%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%81%B8%E3%81%AE%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A_-_Baysian_Neural_Network
+
+https://www.slideshare.net/ssuserca2822/5bayesian-deep-learning
+
+https://www.kaggle.com/gdmarmerola/risk-and-uncertainty-in-deep-learning
+
 ## 5.サンプリング
 https://t.co/MEN5xWG2OK?amp=1
 
@@ -196,26 +221,37 @@ https://qiita.com/yutera12/items/10d19959f52de5c98a0a
 # 因果推論
 ## 1.黒川博文 因果推論のための計量経済学
 https://sites.google.com/site/hirofumikurokawa/home/causal_inference
+
 ## 2.効果検証入門をpythonで実装
 https://qiita.com/nekoumei/items/648726e89d05cba6f432
+
 ## 3.統計ラボ　統計的因果推論
 https://toukei-lab.com/%e7%b5%b1%e8%a8%88%e7%9a%84%e5%9b%a0%e6%9e%9c%e6%8e%a8%e8%ab%96
+
 ## 4.ABテスト
 https://chris-said.io/2020/01/10/optimizing-sample-sizes-in-ab-testing-part-I/
+
 ## 5.経済学と反事実分析
 https://speakerdeck.com/ktgrstsh/economics-and-counterfactual-analysis-a-contact
+
 ## 6.傾向スコア
 https://waidai-csc.jp/updata/2019/05/7e3a9ea92b282ede82550e81a73c6b54.pdf
+
 ## 7.統計的因果推論への招待 -因果構造探索を中心に-
 https://www.slideshare.net/sshimizu2006/ss-77876940?from_m_app=ios
+
 ## 8.統計的因果推論とデータ解析
 https://speakerdeck.com/tomoshige_n/causal-inference-and-data-analysis
+
 ## 9.因果推論とDirected Acyclic Graphs (DAG)
 https://mmbiostats.com/dag
+
 ## 10.Python Code for _Causal Inference: What If_
 https://github.com/jrfiedler/causal_inference_python_code/blob/master/README.md
+
 ## 11.より正しい意思決定のための統計的仮説検定とサンプルサイズ計算
 https://data.gunosy.io/entry/ab-test-sample-size
+
 ## 12.交絡の調整　滋賀大DSビデオ
 これは非常にわかりやすい
 https://youtu.be/5hXwoJnCWgA
@@ -224,10 +260,13 @@ https://youtu.be/5hXwoJnCWgA
 # 最適化
 ## 1.日本オペレーションズ・リサーチ学会
 http://www.orsj.or.jp/e-library/elcorsj60.html
+
 ## 2.多目的最適化とモース理論
 https://qiita.com/NaokiHamada/items/020e18563c8616d4bb9a
+
 ## 3.機械学習のためのベイズ最適化入門
 https://www.slideshare.net/hoxo_m/ss-77421091
+
 ## 4.OR-Tools
 https://developers.google.com/optimization
 
@@ -235,6 +274,7 @@ https://developers.google.com/optimization
 # 計量経済学
 ## 1.Financial-Models,in Python
 https://github.com/cantaro86/Financial-Models-Numerical-Methods
+
 ## 2.計量経済学と機械学習の関係
 https://github.com/Gedevan-Aleksizde/20190703_ML_ECON/blob/master/main.pdf
 
@@ -242,61 +282,101 @@ https://github.com/Gedevan-Aleksizde/20190703_ML_ECON/blob/master/main.pdf
 # NLP
 ## 1.eisenstein-nlp-notes.pdf
 https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf
+
 ## 2.BERT入門
 https://www.slideshare.net/matsukenbook/bert-217710964
+
 ## 3.Ginza
 https://megagonlabs.github.io/ginza/
+
 ## 4.LDAのトピックをParticleFilterで推論
 https://gashin-learning.hatenablog.com/entry/2019/11/03/175801
+
 ## 5.word2vecの評価
 https://blog.hoxo-m.com/entry/2020/02/20/090000
+
 ## 6.事前学習済言語モデルの動向
-https://speakerdeck.com/kyoun/survey-of-pretrained-language-models-f6319c84-a3bc-42ed-b7b9-05e2588b12c7 
+https://speakerdeck.com/kyoun/survey-of-pretrained-language-models-f6319c84-a3bc-42ed-b7b9-05e2588b12c7
+
 ## 7.Transformers are Graph Neural Networks
 https://graphdeeplearning.github.io/post/transformers-are-gnns/
+
+## 8.ELECTRA
+https://ai-scholar.tech/treatise/electra-ai-382/
 
 
 # 数学
 ## 1.行列計算ハンドブック
 https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
+
 ## 2.関数解析
 http://www.math.nagoya-u.ac.jp/~noby/pdf/fana.pdf
+
 ## 3.測度・ルベーグ積分及び確率
 http://www.maroon.dti.ne.jp/ittia/sakog/MeasureAndLesbesgue.pdf
+
 ## 4.測度の絶対連続性
 http://www.cis.nagasaki-u.ac.jp/~masada/2010011501.pdf
+
 ## 5.ホップの拡張定理
 http://www.sci.hyogo-u.ac.jp/maths/master/h19/2007kuwabara.pdf
+
 ## 6.テンソル分解の基礎
 https://www.slideshare.net/yokotatsuya/2014-3-13?from_m_app=ios
+
 ## 7.モース理論
 https://youtu.be/N7OL3mjI2fE
+
 ## 8.変分法
 https://laborify.net/2019/07/27/takahashi-variational-method/
+
 ## 9.京都大学　講義ノート
 http://www.kurims.kyoto-u.ac.jp/ja/special-01.back.html
+
+## 10.persistent homology
+https://www.jstage.jst.go.jp/article/sugaku/68/4/68_0684361/_pdf/-char/ja
 
 
 # IT技術
 ## 1.MLflow
 https://ymym3412.hatenablog.com/entry/2019/12/28/204038
+
 ## 2.要件定義〜システム設計が出来る人材になれる記事
 https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=e6315a0e59-Qiita_newsletter_395_01_15_2020&utm_medium=email&utm_term=0_e44feaa081-e6315a0e59-33822873
+
 ## 3.Bigquery level up
 https://gist.github.com/syltruong/da1b2c7fa1d1317dde801aab6fefbb86 
+
+# その他
+## 1.ビジネスコミュニケーションスキル
+https://tech-camp.in/note/pickup/72292/
+
+## 2.アドラー心理学
+https://youtu.be/XB93gCTqJgg
+
+## 3.幸せになる勇気
+https://yagi-coach.com/mindset/siawaseninaru-yuuki/
+
+## 4.コンサル資料の作り方
+https://note.com/take_haru/n/nfa407340f26b
 
 
 # Python
 ## 1.Modin : Speed up Pandas
 https://www.kdnuggets.com/2019/11/speed-up-pandas-4x.html
+
 ## 2.Convolutional Conditional Neural Process, in PyTorch
 https://github.com/makora9143/pytorch-convcnp
+
 ## 3.autokeras
 https://github.com/keras-team/autokeras/blob/master/README.md
+
 ## 4.Stepwise Regression
 http://tomoshige-n.hatenablog.com/entry/2019/12/24/060514
+
 ## 5.kaggleコード遺産
 https://qiita.com/kaggle_master-arai-san/items/d59b2fb7142ec7e270a5
+
 ## 6.MogrifierLSTM
 https://github.com/RMichaelSwan/MogrifierLSTM/blob/master/MogrifierLSTM.ipynb
 
@@ -321,12 +401,3 @@ https://github.com/RMichaelSwan/MogrifierLSTM/blob/master/MogrifierLSTM.ipynb
 17.宇宙と宇宙をつなぐ数学  
 18.脳と時間  
 19.脳はいかにして数学を生み出すのか  
-
-
-# その他
-## 1.ビジネスコミュニケーションスキル
-https://tech-camp.in/note/pickup/72292/
-## 2.アドラー心理学
-https://youtu.be/XB93gCTqJgg
-## 3.幸せになる勇気
-https://yagi-coach.com/mindset/siawaseninaru-yuuki/
