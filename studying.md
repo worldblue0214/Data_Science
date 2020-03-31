@@ -1,4 +1,5 @@
 # 参考文献
+
 # 機械学習
 ## 1.一般化線形モデルと一般化加法モデル
 https://www.slideshare.net/DeepLearningLab/glm-gam
@@ -128,6 +129,8 @@ https://www.slideshare.net/trinmu/ss-161240890
 ## 13.GANのなめらかさと安定性
 https://tech.preferred.jp/ja/blog/smoothness-and-stability-in-gans/
 
+## 14.Backpropしないニューラルネット入門
+http://ktrmnm.github.io/blog/2018/03/04/201803-nn-bcd/
 
 
 # 強化学習
@@ -173,6 +176,8 @@ https://github.com/QUANTA-github/information-geometry/blob/master/j-unify.pdf
 ## 8.Short Notes on Divergence Measures
 https://danilorezende.com/wp-content/uploads/2018/07/divergences.pdf
 
+## 9.藤岡敦　情報幾何学　講義資料
+http://www2.itc.kansai-u.ac.jp/~afujioka/2018/ig/ig.html
 
 
 # ベイズ統計
@@ -196,6 +201,7 @@ https://www.slideshare.net/ssuserca2822/5bayesian-deep-learning
 
 https://www.kaggle.com/gdmarmerola/risk-and-uncertainty-in-deep-learning
 
+
 ## 5.サンプリング
 https://t.co/MEN5xWG2OK?amp=1
 
@@ -215,7 +221,13 @@ http://statmodeling.hatenablog.com/entry/waic-with-hierarchical-models?utm_sourc
 ## 9.確率分布間の関係を理解する
 https://qiita.com/yutera12/items/10d19959f52de5c98a0a
 
-## 10.
+## 10.主義について
+http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/bayes000.pdf
+
+http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/dataan201809.pdf
+
+## 11.代数幾何と学習理論
+http://ibisml.org/archive/ibisml001/watanabe2010.pdf
 
 
 # 因果推論
@@ -379,6 +391,9 @@ https://qiita.com/kaggle_master-arai-san/items/d59b2fb7142ec7e270a5
 
 ## 6.MogrifierLSTM
 https://github.com/RMichaelSwan/MogrifierLSTM/blob/master/MogrifierLSTM.ipynb
+
+## 7.Zero-Inflated Poisson Regression
+https://github.com/MosheLichman/ZIP-Regression
 
 
 # オススメ書籍
