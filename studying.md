@@ -372,6 +372,10 @@ https://yagi-coach.com/mindset/siawaseninaru-yuuki/
 ## 4.コンサル資料の作り方
 https://note.com/take_haru/n/nfa407340f26b
 
+## 5.「サブスクリプション」で新しいビジネスモデルをつくる
+https://www.youtube.com/watch?v=Et5v7X9ZCcg&t=3157s
+
+
 
 # Python
 ## 1.Modin : Speed up Pandas
@@ -405,14 +409,14 @@ https://github.com/MosheLichman/ZIP-Regression
 6.マッキンゼー　ホッケースティック戦略  
 7.データドリブンマーケティング  
 8.実証のための計量時系列分析  
-9.ノンパラメトリック統計
+9.ノンパラメトリック統計  
 10.しくみがわかるベイズ統計と機械学習  
 11.統計学への確率論、その先へ  
 12.効果検証入門  
 13.AI時代の自律性  
 14.地頭を鍛えるフェルミ推定ノート  
-15.2030年の世界地図帳
-16.NO FLOP! 失敗できない人の失敗しない技術  
+15.2030年の世界地図帳  
+16.NO_FLOP! 失敗できない人の失敗しない技術  
 17.宇宙と宇宙をつなぐ数学  
 18.脳と時間  
 19.脳はいかにして数学を生み出すのか  
